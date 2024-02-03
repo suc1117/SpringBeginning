@@ -1,7 +1,6 @@
 package cs.spring.repository;
 
 import cs.spring.domain.Member;
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
